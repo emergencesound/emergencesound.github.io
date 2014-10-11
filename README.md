@@ -15,17 +15,6 @@ brew install wget
 wget https://raw.githubusercontent.com/Droogans/dotfiles/mac/.git-prompt.sh > ~/.git-prompt.sh
 wget https://raw.githubusercontent.com/Droogans/dotfiles/mac/.bash_aliases > ~/.bash_aliases
 wget https://raw.githubusercontent.com/Droogans/dotfiles/mac/.git-completion.sh > ~/.git-completion.sh
-```
-
-Open your bash profile
-
-```
-subl ~/.bash_profile
-```
-
-And add this at the very top
-
-```
 echo "source ~/.bash_aliases\nsource ~/.git-prompt.sh\nsource ~/.git-completion.sh" >> ~/.bash_profile
 ```
 
