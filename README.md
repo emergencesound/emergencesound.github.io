@@ -79,7 +79,7 @@ gem install jekyll bundler
 
 ```
 bundle install
-jekyll serve --watch
+bundle exec guard
 ```
 
 Open [your local version](http://localhost:4000/) of the site, start editing the css/html, and save it.
