@@ -1,13 +1,13 @@
 ---
 layout: project
-title:  FloLikeUs - GrowingPains - MIX
-date:   2014-04-25 16:54:46
+title:  TheFurrow - WhenEverythingWasRight - MIX
+date:   2014-04-19 16:54:46
 author: Jim Yates
 categories:
 - project
-img: portfolio_04.jpg
+img: portfolio_06.jpg
 thumb: thumb02.jpg
-soundcloud: https://api.soundcloud.com/tracks/145231522
+soundcloud: https://api.soundcloud.com/tracks/145230873
 carousel:
 - single01.jpg
 - single02.jpg

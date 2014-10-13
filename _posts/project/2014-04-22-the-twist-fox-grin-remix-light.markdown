@@ -1,13 +1,13 @@
 ---
 layout: project
-title:  TheFurrow - WhenEverythingWasRight - MIX
-date:   2014-04-25 16:54:46
+title:  TheTwist - FoxGrin - REMIX - Light
+date:   2014-04-22 16:54:46
 author: Jim Yates
 categories:
 - project
-img: portfolio_06.jpg
+img: portfolio_03.jpg
+soundcloud: https://api.soundcloud.com/tracks/145231742
 thumb: thumb02.jpg
-soundcloud: https://api.soundcloud.com/tracks/145230873
 carousel:
 - single01.jpg
 - single02.jpg

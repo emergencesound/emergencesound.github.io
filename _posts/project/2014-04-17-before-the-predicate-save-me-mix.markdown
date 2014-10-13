@@ -1,13 +1,13 @@
 ---
 layout: project
-title: DaddysFunk - MIX
-date:   2014-04-25 16:54:46
+title:  BeforeThePredicate - SaveMe - MIX
+date:   2014-04-17 16:54:46
 author: Jim Yates
 categories:
 - project
-img: portfolio_05.jpg
+img: portfolio_08.jpg
 thumb: thumb02.jpg
-soundcloud: https://api.soundcloud.com/tracks/145231253
+soundcloud: https://api.soundcloud.com/tracks/145230220
 carousel:
 - single01.jpg
 - single02.jpg
