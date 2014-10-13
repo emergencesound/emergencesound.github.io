@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  TheTwist - FoxGrin - REMIX - Dark
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Jim Yates
 categories:
 - project
 img: portfolio_02.jpg
+soundcloud: https://api.soundcloud.com/tracks/145232011
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

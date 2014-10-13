@@ -1,12 +1,13 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  WalkWithMe - REMIX
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Jim Yates
 categories:
 - project
 img: portfolio_07.jpg
 thumb: thumb02.jpg
+soundcloud: https://api.soundcloud.com/tracks/145230580
 carousel:
 - single01.jpg
 - single02.jpg
