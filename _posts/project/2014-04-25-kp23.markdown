@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  KP23
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Quinn Leech
 categories:
 - project
 img: portfolio_01.jpg
+soundcloud: https://api.soundcloud.com/tracks/171411992
 carousel:
 - single01.jpg
 - single02.jpg
