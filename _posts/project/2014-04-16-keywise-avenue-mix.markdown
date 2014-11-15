@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  Keywise - Avenue - MIX
+title:  Keywise - Avenue
 date:   2014-04-16 16:54:46
-author: Jim Yates
+mixed by: Jim Yates
 categories:
 - project
 img: portfolio_09.jpg

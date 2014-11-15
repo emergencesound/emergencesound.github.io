@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  KP23
+title:  KP23 - Quinn Leach
 date:   2014-04-25 16:54:46
-author: Quinn Leech
+author: Quinn Leach
 categories:
 - project
 img: portfolio_01.jpg

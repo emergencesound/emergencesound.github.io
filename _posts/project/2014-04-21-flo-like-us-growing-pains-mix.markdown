@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  FloLikeUs - GrowingPains - MIX
+title:  Flo Like Us - Growing Pains
 date:   2014-04-21 16:54:46
-author: Jim Yates
+mixed by: Jim Yates
 categories:
 - project
 img: portfolio_04.jpg

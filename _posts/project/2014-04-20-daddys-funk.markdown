@@ -1,8 +1,8 @@
 ---
 layout: project
-title: DaddysFunk - MIX
+title: Daddy's Funk
 date:   2014-04-20 16:54:46
-author: Jim Yates
+mixed by: Jim Yates
 categories:
 - project
 img: portfolio_05.jpg

@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  WalkWithMe - REMIX
+title:  Walk With Me - REMIX
 date:   2014-04-18 16:54:46
-author: Jim Yates
+remixed by: Jim Yates
 categories:
 - project
 img: portfolio_07.jpg

@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  TheTwist - FoxGrin - REMIX - Dark
+title:  The Twist - Fox Grin - Dark REMIX
 date:   2014-04-23 16:54:46
-author: Jim Yates
+remixed by: Jim Yates
 categories:
 - project
 img: portfolio_02.jpg

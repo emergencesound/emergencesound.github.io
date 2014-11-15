@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Yuri's House - A Quinn Song
+title:  Yuri's House - Quinn Leach
 date:   2014-04-15 16:54:46
 author: Quinn Leech
 categories:

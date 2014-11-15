@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  TheFurrow - WhenEverythingWasRight - MIX
+title:  The Furrow - When Everything Was Right
 date:   2014-04-19 16:54:46
-author: Jim Yates
+mixed by: Jim Yates
 categories:
 - project
 img: portfolio_06.jpg

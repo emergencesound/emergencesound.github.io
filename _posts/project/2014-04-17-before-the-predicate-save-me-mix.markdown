@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  BeforeThePredicate - SaveMe - MIX
+title:  Before The Predicate - Save Me
 date:   2014-04-17 16:54:46
-author: Jim Yates
+mixed by: Jim Yates
 categories:
 - project
 img: portfolio_08.jpg

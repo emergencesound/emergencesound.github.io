@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  TheTwist - FoxGrin - REMIX - Light
+title:  The Twist - Fox Grin - Light REMIX
 date:   2014-04-22 16:54:46
-author: Jim Yates
+remixed by: Jim Yates
 categories:
 - project
 img: portfolio_03.jpg
