@@ -2,7 +2,7 @@
 
 # Site settings
 title: 
-description: "Since 2009, Emergence Sound has built its identity, developed its recording capacities and expanded its gear selection. Click the button below to send me some information about your project so we can make it a reality!"
+description: 
 baseurl: "" #important: start with /
 url: "http://emergencesound.com"
 
@@ -28,13 +28,9 @@ social:
   - title: soundcloud
     url: https://soundcloud.com/jim-yates
   - title: facebook
-    url:
+    url: https://www.facebook.com/emergencesound
   - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+    url: https://twitter.com/EmergenceSound
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -50,59 +46,11 @@ tel: 1 (317) 460-1729
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+  - name: Jim Yates
+    position: Owner and Lead Engineer
+    img: jim.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
-
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-
-# Testimonial content. Shown on Home and About page.
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO

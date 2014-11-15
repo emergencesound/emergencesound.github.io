@@ -8,54 +8,36 @@ permalink: /
     <div class="container">
         <div class="row centered">
             <div class="col-md-6">
-              <a href="#"><i class="fa fa-sliders"></i></a>
-              <h4>Mixing</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <a href="#"><i class="fa fa-circle"></i></a>
+                <h4>Recording</h4>
+                <p>Emergence Sound employs a highly trained engineering staff that is dedicated to capturing the best recording possible for your music or voiceover project. We are well-versed in professional recording techniques, microphone selection/placement and room acoustics. Recording rates are $55/song if the song is recorded within 2 hours. If 2 hours is exceeded, a rate of $40/hour will be charged for the studio time.</p>
+            </div>
+            <div class="col-md-6">
+                <a href="#"><i class="fa fa-sliders"></i></a>
+                <h4>Mixing</h4>
+                <p>After recording, it's time to mix! We use a wide array of professional plugins, mixing modules and good old fashioned listening to make sure your mix is just right. If you have a preferred compression, EQ, or time-based effect plugin let us know and we can accommodate. We also offer remote mixing services for clients that are not local. Mixing rates are $30/hour.</p>
             </div>
             <div class="col-md-6">
                 <a href="#"><i class="fa fa-headphones"></i></a>
                 <h4>Mastering</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            </div>
-            <div class="col-md-6">
-                <a href="#"><i class="fa fa-circle"></i></a>
-                <h4>Recording</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Emergence Sound carefully uses the iZotope Ozone 5 Mastering Suite to add that extra radio play glisten to your tracks. For more information about the art of mastering, feel free to visit <a href="http://en.wikipedia.org/wiki/Audio_mastering">this page</a>. Emergence Sound charges a flat rate of $20/song for mastering.</p>
             </div>
             <div class="col-md-6">
                 <a href="#"><i class="fa fa-scissors"></i></a>
                 <h4>Editing</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Have an audio file you need edited or digitally restored? Send it our way and we can make it happen! Emergence Sound is equipped with excellent digital audio editing and restoration software we can use to save your sound. Audio Editing rates are $30/hour.</p>
             </div>
         </div>
     </div><! --/container -->
 </div><! --/service -->
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+{% include portfolio.html title="LATEST WORK" limit=10 %}
 
 <div class="container mtb">
     <div class="row">
-        <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About Our Agency.</h4>
+        <div class="col-lg-4 col-lg-offset-5">
             <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">About Emergence Sound</a></p>
         </div>
-
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['question'] %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-            {% endfor %}
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Latest Posts</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %}
-        </div>
-
-    </div><! --/row -->
+</div><! --/row -->
 </div><! --/container -->
