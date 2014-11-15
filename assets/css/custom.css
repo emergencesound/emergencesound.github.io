@@ -1,3 +1,17 @@
 .title-image {
   padding-bottom: 60px;
 }
+
+.contacted {
+    color: green;
+    font-size: 2em;
+    padding-left: 8px;
+    display: none;
+}
+
+.not-contacted {
+    color: red;
+    font-size: 2em;
+    padding-left: 8px;
+    display: none;
+}
