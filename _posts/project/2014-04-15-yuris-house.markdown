@@ -12,7 +12,4 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
