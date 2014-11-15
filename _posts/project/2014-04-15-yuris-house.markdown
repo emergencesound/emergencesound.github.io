@@ -6,3 +6,8 @@ author: Quinn Leech
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 soundcloud: https://api.soundcloud.com/tracks/141117168
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+---
